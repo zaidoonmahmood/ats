@@ -1,4 +1,0 @@
-streamlit>=1.40,<2
-PyMuPDF>=1.24,<2
-pypdf>=5,<7
-docx2txt>=0.8
