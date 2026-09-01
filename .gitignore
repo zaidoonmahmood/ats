@@ -1,0 +1,8 @@
+# Keep personal study material and backups out of GitHub.
+*.pdf
+*.docx
+*.csv
+*.json
+.streamlit/secrets.toml
+__pycache__/
+.pytest_cache/
